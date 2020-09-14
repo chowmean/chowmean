@@ -1,6 +1,6 @@
 # Hi, I am Gaurav 👋🏾 💻 :printer:
 
-I am infrastructure, cloud and site reliability engineer and a FOSS enthusiast. 
+Trying to help DevOps, Site Reliability Engineers and System guys to grow. I am infrastructure, cloud and site reliability engineer and a FOSS enthusiast. 
 
 - Founder of <a href="https://learnsteps.com"> Learnsteps</a> which is totally free content platform for DevOps, Site Reliablity Engineers and software engineers. I like to solve problems at scale with infrastrucutre and code and write about them. 🌎
 
