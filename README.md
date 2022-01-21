@@ -13,3 +13,7 @@ Trying to help DevOps, Site Reliability Engineers and System guys to grow. I am 
 ## Find me around the web 🌎: <a href="https://github.com/chowmean">Gaurav Yadav</a>
 - Articles and blogs on DevOps and SRE<a href="https://learnsteps.com"> Learnsteps</a> or <a href="https://www.chowmean.github.io">chowmean</a> 📹 ✍🏾
 - Sharing updates on <a href="https://www.linkedin.com/in/chowmean/">LinkedIn</a> 💼
+
+
+
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=chowmean)
