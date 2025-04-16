@@ -18,5 +18,4 @@ Trying to help DevOps, Site Reliability Engineers and System guys to grow. I am 
 
 ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=chowmean)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chowmean&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chowmean)](https://git.io/streak-stats)
